@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1086930634230",
+    "project_id": "tablebookingapp-71af4",
+    "storage_bucket": "tablebookingapp-71af4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086930634230:android:b55c3b21673af164c533d7",
+        "android_client_info": {
+          "package_name": "com.example.ui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLS7E3XDe6uD9LG2skBW6AisVoX-dXgxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086930634230:android:9b90620649bd2461c533d7",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLS7E3XDe6uD9LG2skBW6AisVoX-dXgxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
